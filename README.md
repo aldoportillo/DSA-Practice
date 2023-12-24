@@ -26,3 +26,7 @@ To run any solution, navigate to the directory of the problem and run "node file
 ## Big O Complexity Chart
 
 ![big o complexity chart](https://imgs.search.brave.com/SZzwczMCXdCQNxthbd4a55QtAYZMsIsgesM9TfGDv6o/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aGFja3IuaW8vdXBs/b2Fkcy9wb3N0cy9h/dHRhY2htZW50cy8x/NjUwMzU3OTAxbGtI/MXhLVHl0Sy5wbmc)
+
+## Resources and Acknowledgements
+
+I would like to thank [AlgoExpert](https://www.algoexpert.io/) for their comprehensive course tailored for JS Developers.
